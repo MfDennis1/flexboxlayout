@@ -60,3 +60,15 @@ align-items: stretch;
 .orange{
     background-color: orange;
 }
+.row{
+    display: flex;
+}
+.example4 {
+    flex-direction: column;
+}
+.light {
+    background-color: blue;
+    min-height: 10px;
+    min-width: 10px;
+    flex: 1;
+}
